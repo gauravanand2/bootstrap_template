@@ -1,0 +1,189 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/*title section*/
+i {
+  color: #14c871;
+}
+
+.navbar-light {
+  background-color: #fff;
+}
+
+.nav_ul {
+  margin-left: 300px;
+}
+
+.title {
+  color: #16df7e;
+  font-size: 36px;
+}
+
+.grey-bg {
+  background: #f9f9fa;
+}
+
+.title-img {
+  max-width: 90%;
+  height: auto;
+}
+
+/*heading*/
+.heading {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  color: #3e4450;
+}
+
+.navhead {
+  font-size: 32px;
+  line-height: 1;
+  color: #5f687b;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+.subhead {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1;
+  color: #858ea1;
+  margin: 10px 0 30px 0;
+}
+
+.collapse {
+  display: block;
+}
+
+.intro {
+  margin-top: 100px;
+}
+
+i {
+  margin-left: 10px;
+}
+
+.ca {
+  display: inline;
+  position: relative;
+}
+
+.card {
+  color: #5f687b;
+  margin: 10px 5px;
+}
+
+.about-img {
+  width: 540px;
+  height: 381px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.coun {
+  font-size: 48px;
+  display: block;
+  color: #16df7e;
+  font-weight: 700;
+}
+
+.abtcard {
+  padding: 80px 20px;
+  margin: 10px 25px;
+}
+
+.abtrow {
+  margin-right: 60px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nmtext {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+button .nmtext {
+  font-size: 24px;
+}
+
+li.nmtext {
+  line-height: 2;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.item {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.item img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.testimonial-item {
+  min-height: 320px;
+}
+
+.testimonial-item img {
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+}
+
+.cta {
+  background: #16df7e;
+  background-size: cover;
+  padding: 20px 0;
+  color: #fff;
+  line-height: 2rem;
+}
+
+.team {
+  padding-bottom: 40px;
+}
+
+.team .card {
+  text-align: center;
+}
+
+.info {
+  border-top: 3px solid #16df7e;
+  border-bottom: 3px solid #16df7e;
+  padding: 30px;
+  width: 100%;
+}
+
+.footer {
+  padding: 30px auto;
+  background-color: #f9f9fa;
+}
+
+.section {
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+
+.text-center {
+  text-align: center;
+}
